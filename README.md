@@ -1,0 +1,1 @@
+Estas son practicas de Python que se hiciero con el objetivo de aprender progamación; tambien fueron tares del colegio en el grado 11°
